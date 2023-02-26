@@ -19,3 +19,5 @@ Besides the printed parts you will need:
 **Happy pumping and growing!**
 
 <p align="center"><img src="images/drawing.png" alt="KDxGP BALOONR"></p>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KDxGP-BALOONRv1.visitor-badge)
