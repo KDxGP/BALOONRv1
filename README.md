@@ -6,5 +6,6 @@
 </p>
 <p align="center">
   <img src="images/KDxGP_logo.png" alt="KDxGP">
+  presents
   <img src="images/BALOONR_logo.png" alt="BALOONR">
 </p>
