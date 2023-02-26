@@ -4,12 +4,8 @@
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee">
   </a>
 </p>
-<p align="center">
-  <img src="images/KDxGP_logo.png" alt="KDxGP"><br>
-  <h2 style="text-align: center;">presents</h2><br>
-  <img src="images/BALOONR_logo.png" alt="BALOONR">
-</p>
+<p align="center"><img src="images/KDxGP_logo.png" alt="KDxGP"></p>
+<p align="center"><h2>presents</h2></p>
+<p align="center"><img src="images/BALOONR_logo.png" alt="BALOONR"></p>
 
-<p align="center">
-  <img src="images/drawing.png" alt="KDxGP BALOONR"><br>
-</p>
+<p align="center"><img src="images/drawing.png" alt="KDxGP BALOONR"></p>
