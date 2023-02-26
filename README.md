@@ -2,6 +2,7 @@
   Like my creations? Consider buying me a coffee. Thank you!<br>
   <a href="https://www.buymeacoffee.com/KDxGP" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee">
+    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="KDxGP" data-color="#BD5FFF" data-emoji="" data-font="Bree" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
   </a>
 </p>
 <p align="center"><img src="images/KDxGP_logo.png" alt="KDxGP"></p>
