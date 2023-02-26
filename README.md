@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center"><img src="images/KDxGP_logo.png" alt="KDxGP"></p>
-<p align="center"><h2 style="text-align:center">presents</h2></p>
+<h2 align="center">presents</h2>
 <p align="center"><img src="images/BALOONR_logo.png" alt="BALOONR"></p>
 
 <p align="center"><img src="images/drawing.png" alt="KDxGP BALOONR"></p>
