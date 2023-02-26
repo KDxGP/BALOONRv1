@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <img src="images/KDxGP_logo.png" alt="KDxGP"><br>
-  <h2>presents</h2><br>
+  <h2 style="center">presents</h2><br>
   <img src="images/BALOONR_logo.png" alt="BALOONR">
 </p>
 
