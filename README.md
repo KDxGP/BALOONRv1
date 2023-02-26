@@ -9,3 +9,7 @@
   presents<br>
   <img src="images/BALOONR_logo.png" alt="BALOONR">
 </p>
+
+<p align="center">
+  <img src="images/drawing.png" alt="KDxGP BALOONR"><br>
+</p>
