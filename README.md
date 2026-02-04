@@ -1,12 +1,13 @@
-<p align="center">
-  Like my creations? Consider buying me a coffee. Thank you!<br>
-  <a href="https://www.buymeacoffee.com/KDxGP" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee">
-  </a>
-</p>
-<p align="center"><img src="images/KDxGP_logo.png" alt="KDxGP"></p>
-<h2 align="center">presents</h2>
-<p align="center"><img src="images/BALOONR_logo.png" alt="BALOONR"></p>
+<div align="center">
+  <img alt="KDxGP" src="https://www.kdxgp.com/static/logo.png" height="128">
+  <h1>BALOONR</h1>
+  <a href="https://buymeacoffee.com/kdxgp"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/donate-black?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=FFDD00"></a>
+  <a href="https://www.x.com/KDxGP"><img alt="x.com/KDxGP" src="https://img.shields.io/badge/-%40KDxGP-blue?style=for-the-badge&logo=x&logoColor=white&labelColor=black"></a>
+  <a href="https://bsky.app/profile/kdxgp.bsky.social"><img alt="kdxgp.bsky.social" src="https://img.shields.io/badge/%40KDxGP-014489?style=for-the-badge&logo=bluesky&labelColor=151d28"></a>
+  <a href="https://www.reddit.com/user/KDxGP/"><img alt="u/KDxGP" src="https://img.shields.io/badge/u%2FKDxGP-black?style=for-the-badge&logo=reddit&logoColor=white&labelColor=ff4500"></a>
+  <a href="https://linktr.ee/KDxGP"><img alt="Linktree" src="https://img.shields.io/badge/linktree-black?style=for-the-badge&logo=linktree&logoColor=black&labelColor=43e660"></a>
+</div>
+
 All tubes you can buy are too small? You want big. And I mean really big? Than check out _BALOONR_! This two part 3D print tube has you covered. 
 
 Make sure you print the parts sturdy and not weak. You will need to post-process your print for a smooth finish to have a comfortable fit. But most of all to have it water/airtight. I highly recommend using an epoxy coating. Also check out how to print water/airtight. 
@@ -19,5 +20,3 @@ Besides the printed parts you will need:
 **Happy pumping and growing!**
 
 <p align="center"><img src="images/drawing.png" alt="KDxGP BALOONR"></p>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KDxGP-BALOONRv1.visitor-badge)
